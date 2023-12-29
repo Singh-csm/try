@@ -1,0 +1,4 @@
+.parent{
+    width: clamp(40%,500px,100%);
+    margin: auto;
+}
